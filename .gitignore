@@ -1,7 +1,6 @@
 *.pdf
 __pycache__
 data
-320~
 ignore_files
 *.csv
 *.png
